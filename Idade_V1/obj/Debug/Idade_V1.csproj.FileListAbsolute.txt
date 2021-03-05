@@ -1,0 +1,7 @@
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Idade_V1\bin\Debug\Idade_V1.exe.config
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Idade_V1\bin\Debug\Idade_V1.exe
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Idade_V1\bin\Debug\Idade_V1.pdb
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Idade_V1\obj\Debug\Idade_V1.csprojAssemblyReference.cache
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Idade_V1\obj\Debug\Idade_V1.csproj.CoreCompileInputs.cache
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Idade_V1\obj\Debug\Idade_V1.exe
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Idade_V1\obj\Debug\Idade_V1.pdb

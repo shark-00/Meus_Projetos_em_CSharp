@@ -26,7 +26,7 @@ namespace MeuTeste
             Console.WriteLine("Seu nome é: {0}", str);
             // Escreve 1 caractere com ToString() para coverter em string
             Console.WriteLine("A letra é: {0},", c.ToString());
-            // Pausando o programa
+            
             Console.ReadLine();
         }
     }
