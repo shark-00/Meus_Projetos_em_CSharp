@@ -1,0 +1,7 @@
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\MeuTeste\obj\Debug\MeuTeste.csprojAssemblyReference.cache
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\MeuTeste\obj\Debug\MeuTeste.csproj.CoreCompileInputs.cache
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\MeuTeste\bin\Debug\MeuTeste.exe.config
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\MeuTeste\bin\Debug\MeuTeste.exe
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\MeuTeste\bin\Debug\MeuTeste.pdb
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\MeuTeste\obj\Debug\MeuTeste.exe
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\MeuTeste\obj\Debug\MeuTeste.pdb
