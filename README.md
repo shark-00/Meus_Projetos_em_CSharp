@@ -1,4 +1,4 @@
 # Meus_Projetos
  C#
 
- Primeiro repositoriocriado pelo Github 
+ Primeiro repositorio criado pelo Github 
