@@ -1,0 +1,7 @@
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Combustivel\obj\Debug\Combustivel.csprojAssemblyReference.cache
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Combustivel\obj\Debug\Combustivel.csproj.CoreCompileInputs.cache
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Combustivel\bin\Debug\Combustivel.exe.config
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Combustivel\bin\Debug\Combustivel.exe
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Combustivel\bin\Debug\Combustivel.pdb
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Combustivel\obj\Debug\Combustivel.exe
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Combustivel\obj\Debug\Combustivel.pdb
