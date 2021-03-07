@@ -64,15 +64,15 @@ namespace teste_If_Else
              e fazer mais quilometragem*/
             if (gasolina * quantidade * 0.65 >= alcool * quantidade)
             {
-                Console.WriteLine("Melhor abastecer gasolina");
+                Console.WriteLine("Melhor abastecer gasolina, valor mais favoravel");
             }
             else if ((valora * quantidade) / (valorg * quantidade) < 0.65)
             {
-                Console.WriteLine("Melhor abastecer gasolina 2");
+                Console.WriteLine("Melhor abastecer gasolina, quilometragem maior ");
             }
             else 
             {  
-                Console.WriteLine("Melhor abastecer alcool");    
+                Console.WriteLine("Melhor abastecer alcool, valor favoravel e quilometragem maior");    
             }
 
             
