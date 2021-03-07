@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Combustivel",
     "\\Idade_V1",
     "\\MeuTeste"
   ],
-  "SelectedNode": "\\Idade_V1\\Program.cs",
+  "SelectedNode": "\\Combustivel\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
