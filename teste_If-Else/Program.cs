@@ -22,7 +22,7 @@ namespace teste_If_Else
             Console.Write("Digite quantidade em litros para abastecer:");
             quantidade = Convert.ToDouble(Console.ReadLine());
 
-            if (gasolina * quantidade > alcool * quantidade + alcool)
+            if (gasolina * quantidade * 0.65 >= alcool * quantidade)
             {
                 Console.WriteLine("Melhor abastecer gasolina");
             }
