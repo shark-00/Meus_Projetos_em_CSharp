@@ -1,0 +1,7 @@
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\teste_If-Else\bin\Debug\teste_If-Else.exe.config
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\teste_If-Else\bin\Debug\teste_If-Else.exe
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\teste_If-Else\bin\Debug\teste_If-Else.pdb
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\teste_If-Else\obj\Debug\teste_If-Else.csprojAssemblyReference.cache
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\teste_If-Else\obj\Debug\teste_If-Else.csproj.CoreCompileInputs.cache
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\teste_If-Else\obj\Debug\teste_If-Else.exe
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\teste_If-Else\obj\Debug\teste_If-Else.pdb
