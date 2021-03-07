@@ -3,8 +3,9 @@
     "",
     "\\Combustivel",
     "\\Idade_V1",
-    "\\MeuTeste"
+    "\\MeuTeste",
+    "\\teste_If-Else"
   ],
-  "SelectedNode": "\\Combustivel\\Program.cs",
+  "SelectedNode": "\\teste_If-Else\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

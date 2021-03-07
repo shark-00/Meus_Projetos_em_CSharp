@@ -19,12 +19,17 @@ namespace teste_If_Else
             alcool = Convert.ToDouble(Console.ReadLine());
 
             double quantidade = 0;
-            Console.Write("Digite quantidade em litros para abastecer:" +
-                "");
+            Console.Write("Digite quantidade em litros para abastecer:");
             quantidade = Convert.ToDouble(Console.ReadLine());
 
-
-
+            if (gasolina * quantidade > alcool * quantidade * quantidade)
+            {
+                Console.WriteLine("Melhor abastecer gasolina");
+            }
+            else 
+            {  
+                Console.WriteLine("Melhor abastecer alcool");    
+            }
             Console.ReadLine();
 
         }
