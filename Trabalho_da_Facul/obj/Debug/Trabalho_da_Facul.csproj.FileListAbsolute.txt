@@ -1,0 +1,7 @@
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Trabalho_da_Facul\bin\Debug\Trabalho_da_Facul.exe.config
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Trabalho_da_Facul\bin\Debug\Trabalho_da_Facul.exe
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Trabalho_da_Facul\bin\Debug\Trabalho_da_Facul.pdb
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Trabalho_da_Facul\obj\Debug\Trabalho_da_Facul.csprojAssemblyReference.cache
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Trabalho_da_Facul\obj\Debug\Trabalho_da_Facul.csproj.CoreCompileInputs.cache
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Trabalho_da_Facul\obj\Debug\Trabalho_da_Facul.exe
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\Trabalho_da_Facul\obj\Debug\Trabalho_da_Facul.pdb
