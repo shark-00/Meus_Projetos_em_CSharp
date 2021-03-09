@@ -38,6 +38,9 @@ namespace teste_If_Else
             
             // pulando linha
             Console.WriteLine();
+            gasolina = gasolina * quantidade;
+            alcool = alcool * quantidade;
+            Console.WriteLine("O carro andara: {0} km na gasolina e: {1} km no alcool", gasolina, alcool);
 
             // declaraçao de variavel valor da gasolina
             double valorg = 0;
