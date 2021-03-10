@@ -10,16 +10,19 @@ namespace testando_switch_com_if_else
     {
         static void Main(string[] args)
         {
-            {   // declaraçao de 3 variaves inteira 
+            {   // declaraçao de 3 variaves inteira a, b,c
                 int a, b, c = 0;
                 Console.WriteLine("Digite um número: ");
+                //convertendo variavel a, para imprimir
                 a = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Digite outro número: ");
+                //convertendo variavel b, para imprimir
                 b = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Agora, o que você quer comesse números? ");
                 Console.WriteLine("1 - Verificar se o primeiro número é maior que o segundo número. ");
                 Console.WriteLine("2 - Verificar se o segundo número é maior que o primeiro número. ");
                 Console.WriteLine("3 - Verificar se os números são iguais. ");
+                // convertendo variavel c, para executar switch
                 c = Int32.Parse(Console.ReadLine());
                 switch (c)
                 {
