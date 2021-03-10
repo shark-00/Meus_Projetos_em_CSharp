@@ -1,0 +1,7 @@
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\testando_switch_com_if_else\bin\Debug\testando_switch_com_if_else.exe.config
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\testando_switch_com_if_else\bin\Debug\testando_switch_com_if_else.exe
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\testando_switch_com_if_else\bin\Debug\testando_switch_com_if_else.pdb
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\testando_switch_com_if_else\obj\Debug\testando_switch_com_if_else.csprojAssemblyReference.cache
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\testando_switch_com_if_else\obj\Debug\testando_switch_com_if_else.csproj.CoreCompileInputs.cache
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\testando_switch_com_if_else\obj\Debug\testando_switch_com_if_else.exe
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\testando_switch_com_if_else\obj\Debug\testando_switch_com_if_else.pdb

@@ -1,0 +1,7 @@
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\desvio_condicional\obj\Debug\desvio_condicional.csprojAssemblyReference.cache
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\desvio_condicional\obj\Debug\desvio_condicional.csproj.CoreCompileInputs.cache
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\desvio_condicional\bin\Debug\desvio_condicional.exe.config
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\desvio_condicional\bin\Debug\desvio_condicional.exe
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\desvio_condicional\bin\Debug\desvio_condicional.pdb
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\desvio_condicional\obj\Debug\desvio_condicional.exe
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\desvio_condicional\obj\Debug\desvio_condicional.pdb
