@@ -47,6 +47,10 @@ namespace teste_If_Else
             // pulando linha
             Console.WriteLine();
 
+            // voltando a variavel gasolina e alcool ao valor inicial para obter no calculo
+            gasolina = gasolina / quantidade;
+            alcool = alcool / quantidade;
+
             // declaraçao de variavel valor da gasolina
             double valorg = 0;
             // lendo a variavelvalor
@@ -68,15 +72,15 @@ namespace teste_If_Else
             Console.WriteLine();
 
             // fazendo a calculo com if e else 
-            /* teoria é o alcool se mais barato 65% do que a gasolina 
+            /* teoria é o alcool se mais barato 70% do que a gasolina 
              e fazer mais quilometragem*/
-            if (gasolina* quantidade * 0.65 >= alcool * quantidade)
+            if (valora* quantidade / valorg * quantidade < 0.70)
             {
-                Console.WriteLine("Melhor abastecer gasolina, valor mais favoravel");
+                Console.WriteLine("Melhor abastecer alcool, valor mais favoravel");
             }
-            else if ((valora * quantidade) / (valorg * quantidade) < 0.65)
+            else if ((gasolina * quantidade) / (alcool * quantidade) >= 0.30 )
             {
-                Console.WriteLine("Melhor abastecer álcool");
+                Console.WriteLine("Melhor abastecer gasolina, quilometragem maior");
             }
             else 
             {  
