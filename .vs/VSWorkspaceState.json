@@ -2,10 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\Combustivel",
+    "\\desvio_condicional",
+    "\\foreach",
     "\\Idade_V1",
     "\\MeuTeste",
+    "\\testando_switch_com_if_else",
     "\\teste_If-Else"
   ],
-  "SelectedNode": "\\teste_If-Else\\Program.cs",
+  "SelectedNode": "\\foreach\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
