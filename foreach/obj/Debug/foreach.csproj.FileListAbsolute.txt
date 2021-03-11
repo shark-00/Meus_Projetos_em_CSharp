@@ -1,0 +1,6 @@
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\foreach\obj\Debug\foreach.csproj.CoreCompileInputs.cache
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\foreach\bin\Debug\Array_Csharp.exe.config
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\foreach\bin\Debug\Array_Csharp.exe
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\foreach\bin\Debug\Array_Csharp.pdb
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\foreach\obj\Debug\Array_Csharp.exe
+C:\Users\Romenildo\OneDrive\Documentos\C#\Meus_Projetos\foreach\obj\Debug\Array_Csharp.pdb
