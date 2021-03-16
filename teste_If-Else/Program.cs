@@ -53,7 +53,7 @@ namespace teste_If_Else
 
             // declaraçao de variavel valor da gasolina
             double valorg = 0;
-            // lendo a variavelvalor
+            // lendo a variavel valor
             Console.Write("Digite valor do litro da gasolina: ");
             // convertendo a variavel valor 
             valorg = Convert.ToDouble(Console.ReadLine());
