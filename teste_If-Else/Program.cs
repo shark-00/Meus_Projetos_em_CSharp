@@ -87,7 +87,7 @@ namespace teste_If_Else
                 Console.WriteLine("Melhor abastecer alcool, valor favoravel e quilometragem maior");    
             }
 
-            
+            // Pausando programa
             Console.ReadLine();
 
         }
